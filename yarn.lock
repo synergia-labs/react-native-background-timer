@@ -5205,7 +5205,7 @@ rimraf@~2.2.6:
   integrity sha512-R5KMKHnPAQaZMqLOsyuyUmcIjSeDm+73eoqQpaXA7AZ22BL+6C+1mcUscgOsNd8WVlJuvlgAPsegcx7pjlV0Dg==
 
 "rn-background-exec@file:":
-  version "1.0.0"
+  version "1.0.1"
   resolved "file:"
   dependencies:
     rn-background-exec "file:"
