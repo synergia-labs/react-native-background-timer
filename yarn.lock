@@ -5204,11 +5204,11 @@ rimraf@~2.2.6:
   resolved "https://registry.npmjs.org/rimraf/-/rimraf-2.2.8.tgz"
   integrity sha512-R5KMKHnPAQaZMqLOsyuyUmcIjSeDm+73eoqQpaXA7AZ22BL+6C+1mcUscgOsNd8WVlJuvlgAPsegcx7pjlV0Dg==
 
-"rn-background-synergia@file:":
-  version "2.4.4"
+"rn-background-exec@file:":
+  version "1.0.0"
   resolved "file:"
   dependencies:
-    rn-background-synergia "file:"
+    rn-background-exec "file:"
 
 rsvp@^4.8.4:
   version "4.8.5"

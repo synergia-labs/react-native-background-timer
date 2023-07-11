@@ -10,6 +10,7 @@
     "ios"
   ],
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "eslint": "eslint *.js",
     "eslint:fix": "yarn eslint --fix",
