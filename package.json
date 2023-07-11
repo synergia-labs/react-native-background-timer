@@ -1,6 +1,6 @@
 {
   "name": "rn-background-exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emit event periodically (even when app is in the background)",
   "keywords": [
     "react-native",
