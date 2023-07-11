@@ -1,4 +1,4 @@
-package com.ocetnik.timer;
+package com.synergia.timer;
 
 import android.os.Handler;
 import android.os.PowerManager;
@@ -87,6 +87,15 @@ public class BackgroundTimerModule extends ReactContextBaseJavaModule {
                 }
            }
         }, (long) timeout);
+    }
+    @ReactMethod
+    public void addListener(String eventName) {
+
+    }
+
+    @ReactMethod
+    public void removeListeners(Integer count) {
+
     }
 
     /*@ReactMethod
