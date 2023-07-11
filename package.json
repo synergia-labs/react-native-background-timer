@@ -1,6 +1,6 @@
 {
-  "name": "rn-background-synergia",
-  "version": "2.4.4",
+  "name": "rn-background-exec",
+  "version": "1.0.0",
   "description": "Emit event periodically (even when app is in the background)",
   "keywords": [
     "react-native",
